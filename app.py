@@ -279,7 +279,6 @@ class AdvancedNLP:
         sections = {}
         current_section = "header"
         start_pos = 0
-        it 
         for match in matches:
             # Extract content of the previous section
             section_content = text[start_pos:match.start()].strip()
