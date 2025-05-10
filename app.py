@@ -774,7 +774,8 @@ with tab3:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center'>
-    <p>Resume & Job Description Matcher | Help by AI </p>
-            <p>Develop by Md Soumike Hassan</p>
+    <p>Resume & Job Description Matcher </p>
+    <p>Develop by Md Soumike Hassan</p>
+    <p>Help by AI </p>
 </div>
 """, unsafe_allow_html=True)
